@@ -18,6 +18,7 @@ class Restaurant():
         print(self.restaurant_name.title() +
               " is now open.")
 
+
 restaurant = Restaurant("rita's", "sea food")
 restaurant_2 = Restaurant("mario's pizza", "italian food")
 restaurant_3 = Restaurant("Juny's", "jamaican food")
