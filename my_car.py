@@ -1,6 +1,7 @@
-from car import Car
+import car
 
-my_new_car = Car("audi", "a4", 2016)
+my_beetle = car.Car("volkswagon", "beetle", 2016)
+print(my_beetle.get_descriptive_name())
 
-print(my_new_car.get_descriptive_name())
-
+my_tesla = car.ElectricCar("tesla", "roadster", 2016)
+print(my_tesla.get_descriptive_name())
