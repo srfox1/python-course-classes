@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3638780f-c628-45b9-a05d-145fc11e7bd9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/favorite_languages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_electric_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_restaurant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restaurant.py" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant.py" afterDir="false" />
-    </list>
+    <list default="true" id="3638780f-c628-45b9-a05d-145fc11e7bd9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -320,14 +312,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21785335" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21785335" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.123958334" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
